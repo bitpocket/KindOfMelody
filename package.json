@@ -1,0 +1,17 @@
+{
+  "name": "Template",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "live-server": "^0.8.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open="
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
